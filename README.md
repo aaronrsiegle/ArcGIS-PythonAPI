@@ -1,7 +1,7 @@
 ---
 Title: ArcGIS Python API
 Class: ENV 859 - Advanced GIS
-Date: Fall 2024
+Date: Fall 2025
 Instructor: John Fay
 ---
 
